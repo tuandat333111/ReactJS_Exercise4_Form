@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "fullname": "Nguyen Van A",
+        "phoneNumber": "0938111111",
+        "email": "nguyenvana@gmail.com"        
+    },
+    {
+        "id": 2,
+        "fullname": "Nguyen Van B",
+        "phoneNumber": "0938222322",
+        "email": "nguyenvanb@gmail.com"   
+    }
+]
